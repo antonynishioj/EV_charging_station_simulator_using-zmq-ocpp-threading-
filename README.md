@@ -18,8 +18,10 @@ In terminal run charging_station.py using code(python charging_station.py)
 
 ###Results
 give input (start_charging)
-output:![image](https://github.com/antonynishioj/EV_charging_station_simulator_using-zmq-ocpp-threading-/assets/157102286/d16c7dcd-f627-430c-9471-dbeb7d9f2da7)
+output:
+![image](https://github.com/antonynishioj/EV_charging_station_simulator_using-zmq-ocpp-threading-/assets/157102286/d16c7dcd-f627-430c-9471-dbeb7d9f2da7)
 
 
 give input (start_charging)
-output:![image](https://github.com/antonynishioj/EV_charging_station_simulator_using-zmq-ocpp-threading-/assets/157102286/ba239d27-1524-4516-a21d-168235bcbb20)
+output:
+![image](https://github.com/antonynishioj/EV_charging_station_simulator_using-zmq-ocpp-threading-/assets/157102286/ba239d27-1524-4516-a21d-168235bcbb20)
