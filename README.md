@@ -1,7 +1,7 @@
 # EV_charging_station_simulator_using(zmq,ocpp,threading)
 
 ## Approach
-1.import dependencies \n
+1.import dependencies <br />
   threading (To perform tasks concurrently)
   zmq(messaging library)
   ocpp (used for communication between EV charging stations and central management systems)
