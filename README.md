@@ -11,7 +11,7 @@
   ChargePoint- defines method to handle communication with a charging point in an EV charging station <br />
   worker- continuously listens for messages on a ZeroMQ socket and responds accordingly <br />
 <br />
-3.Creating an function simulates and connects to the CMS to show charging station status accordingly- charging_station.py <br />
+3.Creating an function that simulates and connects to the CMS to show charging station status accordingly- charging_station.py <br />
 <br />
 ## Steps to implement code
 In terminal run charging_station.py using code(python charging_station.py) <br />
